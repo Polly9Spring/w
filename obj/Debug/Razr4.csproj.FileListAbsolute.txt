@@ -1,0 +1,7 @@
+C:\Users\03sap\source\repos\Razr4\Razr4\bin\Debug\Razr4.exe.config
+C:\Users\03sap\source\repos\Razr4\Razr4\bin\Debug\Razr4.exe
+C:\Users\03sap\source\repos\Razr4\Razr4\bin\Debug\Razr4.pdb
+C:\Users\03sap\source\repos\Razr4\Razr4\obj\Debug\Razr4.csprojAssemblyReference.cache
+C:\Users\03sap\source\repos\Razr4\Razr4\obj\Debug\Razr4.csproj.CoreCompileInputs.cache
+C:\Users\03sap\source\repos\Razr4\Razr4\obj\Debug\Razr4.exe
+C:\Users\03sap\source\repos\Razr4\Razr4\obj\Debug\Razr4.pdb
